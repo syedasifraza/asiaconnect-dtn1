@@ -1,0 +1,7 @@
+/home/kisti/asif/gmonitor/build/CMakeFiles/install/strip.dir
+/home/kisti/asif/gmonitor/build/CMakeFiles/install/local.dir
+/home/kisti/asif/gmonitor/build/CMakeFiles/install.dir
+/home/kisti/asif/gmonitor/build/CMakeFiles/list_install_components.dir
+/home/kisti/asif/gmonitor/build/CMakeFiles/rebuild_cache.dir
+/home/kisti/asif/gmonitor/build/CMakeFiles/edit_cache.dir
+/home/kisti/asif/gmonitor/build/CMakeFiles/gmonitor.dir

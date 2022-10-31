@@ -1,0 +1,1 @@
+/bin/c++    -rdynamic CMakeFiles/gmonitor.dir/src/console_writer.cpp.o CMakeFiles/gmonitor.dir/src/gpu.cpp.o CMakeFiles/gmonitor.dir/src/main.cpp.o CMakeFiles/gmonitor.dir/src/manager.cpp.o CMakeFiles/gmonitor.dir/src/stats_reader.cpp.o  -o gmonitor 
